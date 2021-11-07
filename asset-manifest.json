@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/instaPostUi/static/css/main.9ac64bb0.chunk.css",
-    "main.js": "/instaPostUi/static/js/main.23b58a93.chunk.js",
-    "main.js.map": "/instaPostUi/static/js/main.23b58a93.chunk.js.map",
+    "main.css": "/instaPostUi/static/css/main.88fa1c4e.chunk.css",
+    "main.js": "/instaPostUi/static/js/main.30fae7f5.chunk.js",
+    "main.js.map": "/instaPostUi/static/js/main.30fae7f5.chunk.js.map",
     "runtime-main.js": "/instaPostUi/static/js/runtime-main.6f4604a9.js",
     "runtime-main.js.map": "/instaPostUi/static/js/runtime-main.6f4604a9.js.map",
     "static/js/2.f7517fc4.chunk.js": "/instaPostUi/static/js/2.f7517fc4.chunk.js",
     "static/js/2.f7517fc4.chunk.js.map": "/instaPostUi/static/js/2.f7517fc4.chunk.js.map",
     "index.html": "/instaPostUi/index.html",
-    "static/css/main.9ac64bb0.chunk.css.map": "/instaPostUi/static/css/main.9ac64bb0.chunk.css.map",
+    "static/css/main.88fa1c4e.chunk.css.map": "/instaPostUi/static/css/main.88fa1c4e.chunk.css.map",
     "static/js/2.f7517fc4.chunk.js.LICENSE.txt": "/instaPostUi/static/js/2.f7517fc4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6f4604a9.js",
     "static/js/2.f7517fc4.chunk.js",
-    "static/css/main.9ac64bb0.chunk.css",
-    "static/js/main.23b58a93.chunk.js"
+    "static/css/main.88fa1c4e.chunk.css",
+    "static/js/main.30fae7f5.chunk.js"
   ]
 }
