@@ -134,8 +134,8 @@ button {
 
 .comment {
     height: 22px;
-    width: 287px;
     margin-left: 10px;
+    flex-grow: 1;
 }
 
 .add-comment-icons {
@@ -144,10 +144,11 @@ button {
 
 .add-comment-section {
     display: flex;
+    flex-grow: 1;
 }
 
 .add-comment-section-icons {
-    width: 70px;
+    flex: 0 0 63px;
 }
 
 .posted-time p{
