@@ -78,17 +78,19 @@ const InstaPost = (props) => {
                     <span className="add-comment-avatar">
                         <img height="25" src={userDp} alt="user's dp"/>
                     </span>
-                    <span>
+                    <span className='add-comment-section'>
                         <input className='comment' type="text" placeholder='Add a comment...'/>
-                        <button className='add-comment-icons'>
-                            ❤️
-                        </button>
-                        <button className='add-comment-icons'>
-                            🙌
-                        </button>
-                        <button className='add-comment-icons'>
-                            <AiOutlinePlusCircle />
-                        </button>
+                        <span className='add-comment-section-icons'>
+                            <button className='add-comment-icons'>
+                                ❤️
+                            </button>
+                            <button className='add-comment-icons'>
+                                🙌
+                            </button>
+                            <button className='add-comment-icons'>
+                                <AiOutlinePlusCircle />
+                            </button>
+                        </span>
                     </span>
                 </div>
                 <div className="posted-time">
